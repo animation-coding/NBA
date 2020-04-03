@@ -1,0 +1,7 @@
+If you want to change something in between
+Then you must have Mozilla Firefox
+Have to use
+Mozilla Firefox opens the project file
+After that you have to open
+Press Ctr + Shift + C (Inspect Element)
+You can change the color, size and so on. Save to work with Mozilla Firefox.
